@@ -1,4 +1,4 @@
-"use strict";
+cc"use strict";
 
 // Load plugins
 const browsersync = require("browser-sync").create();
